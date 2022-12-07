@@ -1,0 +1,4 @@
+# NSO
+nso_hostname: 10.16.0.138:22
+nso_username: administrator
+nso_password: P@ssw0rd@2022
